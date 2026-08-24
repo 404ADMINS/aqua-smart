@@ -14,7 +14,7 @@ CWI acts as a centralized operations dashboard. It aggregates satellite observat
 
 **Important**
 Live Operations Console Demo: The live system interface is fully deployed and accessible for review at: https://gemini-watersoftware.vercel.app/
-Access Credentials: Reviewers do not need to register or sign up. You can log in instantly by entering any arbitrary email format and password combination in the login fields.
+Access Credentials: dashboard sign in email hello@404200.ai an password okokok
 
 ## 2. Core Modules & Operational Features
 The CWI system coordinates 11 integrated modules to manage national water infrastructure:
